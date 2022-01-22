@@ -37,6 +37,7 @@ list{
 
 button{
     cursor: pointer;
+    border: 0;
 }
 
 .container{
@@ -44,7 +45,7 @@ button{
   padding-left: 15px;
   padding-right: 15px;
   
-  outline: 2px solid red;
+  /* outline: 2px solid red; */
 }
 
 .header {
@@ -278,7 +279,7 @@ width: 1600px;
 height: 252px;
 left: 0px;
 top: 2097px;
-background-color:var(--main-color-Brown-)
+background-color:#2F303A;
 }
 
 .section-option {
