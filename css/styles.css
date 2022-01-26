@@ -56,7 +56,7 @@ button{
   padding-right: 15px;
   margin: 0 auto;
   
-  /* outline: 2px solid red; */
+  outline: 2px solid red;
 }
 
 .header {
@@ -155,6 +155,7 @@ color: #2196F3;
     background: #2F303A;
     padding: 200px 0;
     text-align: center;
+    
 }
 .hero-title {
 font-weight: 900;
