@@ -297,8 +297,8 @@ background-color:#2F303A;
 }
 .option-list {
     display: flex;
+    justify-content: center;
     margin-bottom: 50px;
-    
 }
 .option-item {
     background: var(--main-color-);
