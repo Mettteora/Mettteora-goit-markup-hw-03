@@ -251,7 +251,7 @@ margin-bottom: 30px;
 }
 
 .team-img{
-margin-bottom: 30px;
+
 }
 .team-item {
      background: var(--main-color-);
@@ -334,6 +334,8 @@ background-color:#2F303A;
 }
 
 .section-gallary {
+    padding-top: 95px;
+    padding-bottom: 94px;
 }
 .pre-title-gallary {
 }
